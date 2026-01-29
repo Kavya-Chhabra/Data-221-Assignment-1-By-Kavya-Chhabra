@@ -1,4 +1,4 @@
-#DATA 221 ASSIGNMENT 1
+## DATA 221 ASSIGNMENT 1
 this repository contains my solutions for Assignment 1 of DATA 221, each question is in a seperate python file as required.
 
 ## Files Overview
