@@ -1,5 +1,5 @@
 ## DATA 221 ASSIGNMENT 1
-this repository contains my solutions for Assignment 1 of DATA 221, each question is in a seperate python file as required.
+This repository contains my solutions for Assignment 1 of DATA 221, each question is in a seperate python file as required.
 
 ## Files Overview
 
@@ -21,7 +21,7 @@ question 8.py : This program creates a Pandas DataFrame, adds a computed column 
 
 
 ## Requirements
--python 
+-Python 
 -pandas(only used for question 8.py)
 
 ## Extra Notes
