@@ -25,6 +25,7 @@ for current_index, current_value in enumerate(list_of_sorted_random_values):
     if current_value >= comparison_value_x:
         first_index_where_value_is_greater_or_equal_to_x = current_index
     break  #stop after finding the first matching index
+    
 #print the sorted list
 print("sorted list:", list_of_sorted_random_values)
 
