@@ -21,12 +21,12 @@ question 8.py : This program creates a Pandas DataFrame, adds a computed column 
 
 
 ## Requirements
--Python
--pandas(only used for question 8.py)
+Python
+pandas(only used for question 8.py)
 
 ## Extra Notes
--All files are written to run independantly without errors
--variable names are descriptive and there are individual comments explaining the logic and steps 
+All files are written to run independantly without errors
+variable names are descriptive and there are individual comments explaining the logic and steps 
 
 
 
