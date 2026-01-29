@@ -20,11 +20,11 @@ question 7.py : This program Converts a given number of seconds since midnight i
 question 8.py : This program creates a Pandas DataFrame, adds a computed column derived from existing columns, and prints the final DataFrame.
 
 
-##Requirments
+## Requirements
 -python 
 -pandas(only used for question 8.py)
 
-##Extra Notes
+## Extra Notes
 -All files are written to run independantly without errors
 -variable names are descriptive and there are individual comments explaining the logic and steps 
 
