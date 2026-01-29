@@ -8,9 +8,12 @@ threshold_Value = 100 # store the threshold value
 current_Product = 1 #initialize the product to 1
 current_Multiplier = 1 #initialize the multiplier starting from 1
 
+#loop will run until the product value is less than the threshold
 while current_Product<= threshold_Value:
+  
   #multiply current product by current multiplier
     current_Product *= current_Multiplier
+  
   #check if the product has exceeded the theshold
     if current_Product > threshold_Value:
         break #exit loop once the threshold has been exceeded
