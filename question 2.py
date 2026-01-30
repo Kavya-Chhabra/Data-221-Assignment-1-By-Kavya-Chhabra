@@ -21,7 +21,7 @@ def create_dictionary_containing_length_and_parity_information_for_each_string(l
 
         #store the length and parity information for the current string
         dictionary_mapping_each_string_to_its_information[current_string_from_input_list] = {
-             "length": length_of_current_string_from_input_list,  # fixed: use the correct variable
+             "length": length_of_current_string_from_input_list,  
              "parity": parity_of_current_string_length
         }
 
