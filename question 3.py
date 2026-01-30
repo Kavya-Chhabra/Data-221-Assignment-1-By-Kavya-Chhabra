@@ -10,12 +10,12 @@ def calculate_base_raised_to_exponent(base_value,exponent_value):
 
 list_of_base_and_exponent_value_pairs = [[5,2], [3,-1], [4,3], [2,0]] #example list from assignment
 
-list_of_valid_exponentiation_results = []# empty list to store valid results
+list_of_valid_exponentiation_results = []#empty list to store valid results
 
 #loop through each pair using argument unpacking
 for base_value,exponent_value in list_of_base_and_exponent_value_pairs:
-    if exponent_value < 0: # if the exponent is negative
-        continue # skip this pair and move on to the next
+    if exponent_value < 0: #if the exponent is negative
+        continue #skip this pair and move on to the next
 
     #calculate the exponentiation and store the result
     exponentiation_result = calculate_base_raised_to_exponent(
