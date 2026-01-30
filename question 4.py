@@ -7,7 +7,7 @@
 from random import random
 
 # generate a list of 20 random values between 0 and 1
-list_of_random_values_between_zero_and_one= [random() for i in range(20)]
+list_of_random_values_between_zero_and_one= [random() for numbers_generated in range(20)]
 
 # generate a random comparison value x between 0 and 1
 comparison_value_x = random()
