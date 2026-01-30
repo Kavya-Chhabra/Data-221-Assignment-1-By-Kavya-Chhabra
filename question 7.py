@@ -23,7 +23,7 @@ def conversion_of_number_of_seconds_since_midnight(total_seconds_since_midnight)
     #calculate remaining seconds
     remaining_seconds = remaining_seconds_after_hours % 60
 
-    # Determine AM or PM
+    # Determine if the time is AM or PM
     if total_hours_since_midnight < 12:
         am_or_pm = "AM"
     else:
@@ -34,7 +34,7 @@ def conversion_of_number_of_seconds_since_midnight(total_seconds_since_midnight)
     if hour_in_12_hour_format ==0:
         hour_in_12_hour_format = 12
 
-    # Return formatted time string
+    # Return formatted time string for printing out the actual time
     return (
         f"{hour_in_12_hour_format:02d}:"
         f"{total_minutes:02d}:"
