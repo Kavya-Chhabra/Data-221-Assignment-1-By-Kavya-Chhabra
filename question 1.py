@@ -14,7 +14,7 @@ while current_Product<= threshold_Value:
   #multiply current product by current multiplier
     current_Product *= current_Multiplier
   
-  #check if the product has exceeded the theshold
+  #check if the product has exceeded the threshold
     if current_Product > threshold_Value:
         break #exit loop once the threshold has been exceeded
    
