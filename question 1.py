@@ -22,7 +22,7 @@ while current_Product<= threshold_Value:
     current_Multiplier += 1
 
 #print the final product after exceeding the threshold
-print("Final Product:", current_Product)
+print("The final product is:", current_Product)
 
 #print the number that caused the product to exceed the threshold
-print("Number that executed threshold:", current_Multiplier)
+print("The number that executed threshold is:", current_Multiplier)
