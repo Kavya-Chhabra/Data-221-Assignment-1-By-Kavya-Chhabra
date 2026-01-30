@@ -42,5 +42,5 @@ def conversion_of_number_of_seconds_since_midnight(total_seconds_since_midnight)
     )
 
 #example testing
-print(conversion_of_number_of_seconds_since_midnight(3661))
+print(conversion_of_number_of_seconds_since_midnight(14400))
 print(conversion_of_number_of_seconds_since_midnight(90000))
