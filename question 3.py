@@ -8,7 +8,7 @@ def calculate_base_raised_to_exponent(base_value,exponent_value):
     return base_value ** exponent_value # ** is used for exponents in python
 
 
-list_of_base_and_exponent_value_pairs = [[5,2], [3,-1], [4,3], [2,0]] # list of x, y pairs
+list_of_base_and_exponent_value_pairs = [[5,2], [3,-1], [4,3], [2,0]] #example list from assignment
 
 list_of_valid_exponentiation_results = []# empty list to store valid results
 
